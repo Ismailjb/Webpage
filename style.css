@@ -1,0 +1,32 @@
+#pictureSection{
+    width:160px;
+    height: 200px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top:40px;
+    float: left;
+
+}
+#outerDiv{
+    width: 600px;
+    height: 710px;
+    border: 1px dotted black;
+    margin:auto;
+    margin-top: 10px;
+    background-color: white;
+    
+    }
+body{
+    background-color: rgb(114, 167, 197);
+}
+#name{
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left:300px;
+    margin-top: 40px;
+    
+}
+span{
+    font-family: Helvetica; 
+     
+}
